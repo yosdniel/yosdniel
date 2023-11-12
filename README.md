@@ -1,25 +1,100 @@
-## Welcome to My Github Repo!
+<h3 align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosdniel&label=Profile%20views&color=0e75b6&style=flat" alt="yosdniel" /> </p>
+<p align="center">
+  <div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Web+Developer+;Front+End+Developer+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
-- 👋 Hi, I’m Yosua Daniel!
-- 👀 I’m interested in PHP, JS, HTML, and Javascript
-- 🌱 I’m currently learning Laravel, Python, CodeIgniter...
-- 💞️ I’m looking to collaborate on ...
+<a href="https://hits.sh/github.com/yosdniel/"><img alt="Hits" src="https://hits.sh/github.com/yosdniel.svg?label=Profile%20Views&extraCount=101000&color=e51c1c"/></a>
 
-### My Top Languages
+<h1 align="center">Hi 👋 I'm Yosua Daniel</h1>
+<h2 align="center">A Freelance Web Developer and Front End Developer🤖</h3>
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+# 💫 About Me :
+![](https://img.shields.io/badge/Tech%20Enthusiastic%20%2F%20Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+<!--
+![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
+![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
+--> 
 
-<br><br>
+- 😄 Pronouns: He/His
 
-### My Top Frameworks / Library
+- 🌱 I am currently learning more about front-end development,django & flask.
 
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Codeigniter" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" />
-<img align="left" alt="Jquery" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+- 💁‍♂️ I’m looking for help with bots.
+
+- 💬 If you have any doubts about my projects, feel free to ask me.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+Languages & Tools:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,html,css,js,vscode,wordpress,discord,androidstudio,mysql,codeigniter," />
+  </a>
+</p>  
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=yosdniel&show_icons=true&theme=transparent">
+</p>
+  
+</br> 
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yosdniel&theme=vue" />
+</p>
+</br> 
+   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosdniel&show_icons=true&locale=en&layout=compact" alt="yosdniel" /></p>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
+  
+<𝙂𝙧𝙖𝙥𝙝📈>
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosdniel&theme=vue"/>
+</p>
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+  <div align="center">
+
+### ✍️ Random Dev Quotes
+
+![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+  
+<div align="center">
+
+### ✍️ Random Dev Jokes
+
+<p align="center">
+ <a href="https://readme-jokes.vercel.app">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
+</a>
+  
+Show some ⭐ to some repositories!
+  
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
+
