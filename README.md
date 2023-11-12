@@ -11,9 +11,7 @@
     </a>
 </p>
 </div>
-
 <a href="https://hits.sh/github.com/yosdniel/"><img alt="Hits" src="https://hits.sh/github.com/yosdniel.svg?label=Profile%20Views&extraCount=98247&color=e51c1c"/></a>
-
 <h1 align="center">Hi 👋 I'm Yosua Daniel</h1>
 <h2 align="center">A Freelance Web Developer and Front End Developer🤖</h3>
 
