@@ -41,7 +41,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,html,css,js,vscode,sql,discord,androidstudio,mysql,ci,java" />
+    <img src="https://skillicons.dev/icons?i=py,php,html,css,js,vscode,discord,androidstudio,mysql,java" />
   </a>
 </p>  
  
